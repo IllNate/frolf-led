@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FrolfLight.PrjPcb]
+   Generated File[FrolfLight.TXT]
+   Generated File[FrolfLight.LDP]
+   Generated File[FrolfLight.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:34:51 PM On 20/01/2016

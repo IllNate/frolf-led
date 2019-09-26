@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FrolfLight.PcbDoc   20/01/2016  1:34:51 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FrolfLight.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        19.7mil (0.50038mm)      Round          5                1.76 Inch (44.71 mm)
+T2        35.4mil (0.89916mm)      Round          4                1.24 Inch (31.50 mm)
+T3        40mil (1.016mm)          Round          4                1.06 Inch (26.92 mm)
+---------------------------------------------------------------------------
+Totals                                            13               4.06 Inch (103.13 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
